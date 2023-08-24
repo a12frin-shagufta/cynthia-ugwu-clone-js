@@ -1,0 +1,10 @@
+1- smooth scrolling
+steps
+attach loco scroll css
+attach locomotive minjs
+some code from loco github for js
+ 2- gsap
+ steps
+ attach gsap
+
+ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js
